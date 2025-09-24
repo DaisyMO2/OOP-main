@@ -18,6 +18,11 @@ class hostel:
         self.visits.append(entry)
         
     def show_visits(self):
-        print(f"visit log for {}")
+        print(f"visit log for {self.name} hostel:")
+        if not self.visitors:
+            print("(no visits recorded yet)")
+        for visit in self.visits:
+            print("-" + visit)
+            
         
     
