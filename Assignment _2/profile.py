@@ -26,7 +26,7 @@ class profile:
 
 #creating my profile
 my_profile = profile(
-    name="Marunga Daisy",
+    name="Daisy Marunga",
     favorite_language="python",
     hobby="watching movies",
     tech_stack=["canva", "javascript", "CSS", "React", "HTML", "Next.js"],
