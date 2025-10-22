@@ -1,4 +1,4 @@
-class profile:
+ class profile:
     def __init__ (
         self, name, favorite_language, hobby, tech_stack, github_username, fun_fact):
         self.name = name
@@ -28,7 +28,7 @@ class profile:
 my_profile = profile(
     name="Marunga Daisy",
     favorite_language="python",
-    hobby="watching movies",
+    hobby="watching movies, swimming ",
     tech_stack=["canva", "javascript", "CSS", "React", "HTML", "Next.js"],
     github_username="DaisyMO2", 
     fun_fact="i love travelling but i have travelling sickness!",
