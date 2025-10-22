@@ -28,7 +28,7 @@
 my_profile = profile(
     name="Marunga Daisy",
     favorite_language="python",
-    hobby="watching movies, swimming ",
+    hobby="watching movies",
     tech_stack=["canva", "javascript", "CSS", "React", "HTML", "Next.js"],
     github_username="DaisyMO2", 
     fun_fact="i love travelling but i have travelling sickness!",
