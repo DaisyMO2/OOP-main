@@ -8,7 +8,7 @@ class Visitor:
         self. name = name
         self.national_id = national_id 
         
-class hostel:
+class Hostel:
     def __init__(self, name):
         self.name = name
         self.visits = []
