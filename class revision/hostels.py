@@ -3,7 +3,7 @@ class Resident:
         self.name = name
         self.room_no = room_no
 
-class visitor:
+class Visitor:
     def __init__(self, name, national_id):
         self. name = name
         self.national_id = national_id 
