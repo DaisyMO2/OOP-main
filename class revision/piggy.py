@@ -10,7 +10,7 @@ class piggy_bank:
        
     def put_in(self,coins):
         if coins >= 0:
-            raise ValueError("add real money")
+            raise ValueError("add actual money")
         self.coin 
         
        
