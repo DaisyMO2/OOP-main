@@ -27,8 +27,8 @@ class profile:
 #creating my profile
 my_profile = profile(
     name="Marunga Daisy",
-    favorite_language="python",
-    hobby="watching movies",
+    favorite_language="Javascript",
+    hobby="eating",
     tech_stack=["canva", "javascript", "CSS", "React", "HTML", "Next.js"],
     github_username="DaisyMO2", 
     fun_fact="i love travelling but i have travelling sickness!",
