@@ -1,14 +1,14 @@
-class resident:
+class Resident:
     def __init__(self, name, room_no):
         self.name = name
         self.room_no = room_no
 
-class visitor:
+class Visitor:
     def __init__(self, name, national_id):
         self. name = name
         self.national_id = national_id 
         
-class hostel:
+class Hostel:
     def __init__(self, name):
         self.name = name
         self.visits = []

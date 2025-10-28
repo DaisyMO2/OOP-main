@@ -1,4 +1,4 @@
-class profile:
+ class profile:
     def __init__ (
         self, name, favorite_language, hobby, tech_stack, github_username, fun_fact):
         self.name = name
