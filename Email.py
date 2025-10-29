@@ -21,18 +21,18 @@ class OtherStudent2(Person):
         print(f"{self.name} from {self.school} replies: Hi love hope to hear from you soon")
 
 # Objects
-quiin = Person("Quiin", "Spena high School")
+Quinn = Person("Quinn", "Spena high School")
 mark = Boy("Mark", "Namilyango College")
 tom = OtherStudent1("Tom", "Namilyango Secondary School")
 leo = OtherStudent2("Leo", "Namilyango Secondary School")
 
 # object interactions
 print("Email Interactions:")
-print(f"{quiin.name} from {quiin.school} sends an email to {mark.school}.")
+print(f"{quinn.name} from {quinn.school} sends an email to {mark.school}.")
 mark.reply()
 
-print(f"{quiin.name} mistakenly sends another email to {tom.school}.")
+print(f"{quinn.name} mistakenly sends another email to {tom.school}.")
 tom.reply()
 
-print(f"{quiin.name} sends the last email again to {leo.school}.")
+print(f"{Quinn.name} sends the last email again to {leo.school}.")
 leo.reply()
