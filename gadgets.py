@@ -1,6 +1,6 @@
 class Gadget:
     def start(self):
-        print("Gadget has started")
+        print("Gadget started")
         
         
 class Phone(Gadget):
