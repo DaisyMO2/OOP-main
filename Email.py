@@ -28,7 +28,7 @@ leo = OtherStudent2("Leo", "Namilyango Secondary School")
 
 # object interactions
 print("Email Interactions:")
-print(f"{quinn.name} from {quinn.school} sends an email to {mark.school}.")
+print(f"{Quinn.name} from {Quinn.school} sends an email to {mark.school}.")
 mark.reply()
 
 print(f"{Quinn.name} mistakenly sends another email to {tom.school}.")
