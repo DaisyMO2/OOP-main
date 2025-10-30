@@ -31,7 +31,7 @@ print("Email Interactions:")
 print(f"{quinn.name} from {quinn.school} sends an email to {mark.school}.")
 mark.reply()
 
-print(f"{quinn.name} mistakenly sends another email to {tom.school}.")
+print(f"{Quinn.name} mistakenly sends another email to {tom.school}.")
 tom.reply()
 
 print(f"{Quinn.name} sends the last email again to {leo.school}.")
