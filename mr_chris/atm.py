@@ -30,7 +30,7 @@ class account:
     
 class hello:
     def __init__(self,name):
-        self.a = 10
+        self.a = 100
         self._b = 20
         self. __c = 30
 
