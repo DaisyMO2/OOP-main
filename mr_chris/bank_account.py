@@ -10,7 +10,7 @@ class bank_account:
         self.balance -= amount
         
 account = bank_account(230)
-account.deposit(700)
+account.deposit(70)
 account.withdraw(160)
 
 print(account.balance)
