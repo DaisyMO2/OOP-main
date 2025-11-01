@@ -32,7 +32,7 @@ class hello:
     def __init__(self,name):
         self.a = 10
         self._b = 20
-        self. __c = 300
+        self. __c = 30
 
 hello = hello("name")
 print(hello.a)
