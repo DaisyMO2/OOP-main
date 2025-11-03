@@ -28,7 +28,7 @@ class Lecturer (Person):
     
 
 p = Person("Daisy")
-s = Student("Leopold", "BSIT", 2)
+s = Student("Leo", "BSIT", 2)
 l = Lecturer("Chris", "BSIT")
 
 print(p.introduce())
