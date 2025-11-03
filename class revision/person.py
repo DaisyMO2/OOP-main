@@ -29,7 +29,7 @@ class Lecturer (Person):
 
 p = Person("Daisy")
 s = Student("Leo", "BSIT", 2)
-l = Lecturer("Chris", "BSIT")
+l = Lecturer("Mark", "BSIT")
 
 print(p.introduce())
 print(s.introduce())
