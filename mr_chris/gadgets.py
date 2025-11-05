@@ -32,7 +32,7 @@ class Phone(Gadget, Camera, Wifi_enabled):
    
 class Phone(gadget, Wifi_enabled):
     def __init__(self):
-        print("phone is ready")
+        print("the phone is ready")
         
 devices = [Phone(), Phone()]
 
