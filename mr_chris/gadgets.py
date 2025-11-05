@@ -20,7 +20,7 @@ for gadget in gadgets:
     
 class Camera:
     def __init__(self):
-        print("taking photo")   
+        print("take photo")   
         
 class Wifi_enabled:
     def __init__(self):
@@ -32,7 +32,7 @@ class Phone(Gadget, Camera, Wifi_enabled):
    
 class Phone(gadget, Wifi_enabled):
     def __init__(self):
-        print("the phone is ready")
+        print("phone is ready")
         
 devices = [Phone(), Phone()]
 
