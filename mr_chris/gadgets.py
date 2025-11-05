@@ -20,7 +20,7 @@ for gadget in gadgets:
     
 class Camera:
     def __init__(self):
-        print("take photo")   
+        print("taking photo")   
         
 class Wifi_enabled:
     def __init__(self):
