@@ -27,7 +27,7 @@
 #creating my profile
 my_profile = profile(
     name="Daisy Marunga",
-    favorite_language="javascript",
+    favorite_language="python",
     hobby="watchimg movies",
     tech_stack=["canva", "javascript", "CSS", "React", "HTML", "Next.js"],
     github_username="DaisyMO2", 
