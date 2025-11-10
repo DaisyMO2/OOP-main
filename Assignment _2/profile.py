@@ -31,7 +31,7 @@ my_profile = profile(
     hobby="watching movies",
     tech_stack=["canva", "javascript", "CSS", "React", "HTML", "Next.js"],
     github_username="DaisyMO2", 
-    fun_fact="i love travelling but i have travelling sickness!",
+    fun_fact="i love cooking !",
 )
 
 #calling the methods
