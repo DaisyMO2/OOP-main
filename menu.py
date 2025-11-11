@@ -41,7 +41,7 @@ class Order:
 
 # Example
 drink1 = Drink("Coke", 3000, True, "500ml")
-food1 = Food("Burger", 8000, True, False)
+food1 = Food("fries", 8000, True, False)
 
 order1 = Order()
 order1.add_item(drink1)
