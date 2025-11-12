@@ -9,5 +9,5 @@ class Book:
 
 
 # Create at least 2 books
-book1 = Book("Things Fall Apart", "Chinua Achebe", 1958)
+book1 = Book("After", "Ann Tood", 1958)
 book2 = Book("The Great Gatsby", "F. Scott Fitzgerald",2000)
