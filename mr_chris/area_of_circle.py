@@ -9,7 +9,7 @@ class circle:
 
 #creation of objects
 c1 = circle (7)
-c2 = circle(6.5)
+c2 = circle(5.5)
 
 print (f"the area of the circle c1 is", c1.area())
    
