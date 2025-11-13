@@ -1,8 +1,8 @@
 class car:
-    def __init__(self, name, year, color):
+    def __init__(self, name, year):
         self.name = name
         self.year = year
-        self.color=color
+        
         
     def drive (self):
         return f"{self.name}"
