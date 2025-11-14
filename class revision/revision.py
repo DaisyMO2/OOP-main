@@ -1,6 +1,6 @@
 #N0.1
 a = 5
-b = 2.2
+b = 2.5
 result = a + b
 print("result")
 print(type("result"))
